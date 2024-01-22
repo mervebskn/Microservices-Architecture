@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderAPI", "OrderAPI\OrderAPI.csproj", "{CFD3DA81-9254-4C28-B336-5F0AA96036E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{418DA359-C37B-43ED-9E2C-F13BABE5B867}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFD3DA81-9254-4C28-B336-5F0AA96036E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD3DA81-9254-4C28-B336-5F0AA96036E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD3DA81-9254-4C28-B336-5F0AA96036E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD3DA81-9254-4C28-B336-5F0AA96036E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{418DA359-C37B-43ED-9E2C-F13BABE5B867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{418DA359-C37B-43ED-9E2C-F13BABE5B867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{418DA359-C37B-43ED-9E2C-F13BABE5B867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{418DA359-C37B-43ED-9E2C-F13BABE5B867}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80C74D53-B92D-4AA8-9DC4-5E12F1EA6485}
+	EndGlobalSection
+EndGlobal
