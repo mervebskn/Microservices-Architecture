@@ -1,0 +1,7 @@
+C:\Users\mbask\OneDrive\Masaüstü\Microservis\Microservices\StockAPI\obj\Debug\net6.0\StockAPI.csproj.AssemblyReference.cache
+C:\Users\mbask\OneDrive\Masaüstü\Microservis\Microservices\StockAPI\obj\Debug\net6.0\StockAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbask\OneDrive\Masaüstü\Microservis\Microservices\StockAPI\obj\Debug\net6.0\StockAPI.AssemblyInfoInputs.cache
+C:\Users\mbask\OneDrive\Masaüstü\Microservis\Microservices\StockAPI\obj\Debug\net6.0\StockAPI.AssemblyInfo.cs
+C:\Users\mbask\OneDrive\Masaüstü\Microservis\Microservices\StockAPI\obj\Debug\net6.0\StockAPI.csproj.CoreCompileInputs.cache
+C:\Users\mbask\OneDrive\Masaüstü\Microservis\Microservices\StockAPI\obj\Debug\net6.0\StockAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mbask\OneDrive\Masaüstü\Microservis\Microservices\StockAPI\obj\Debug\net6.0\StockAPI.MvcApplicationPartsAssemblyInfo.cache

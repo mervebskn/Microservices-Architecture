@@ -85,3 +85,13 @@ C:\Users\mbask\OneDrive\Masaüstü\Microservis\Microservices\OrderAPI\obj\Debug\
 C:\Users\mbask\OneDrive\Masaüstü\Microservis\Microservices\OrderAPI\obj\Debug\net6.0\OrderAPI.pdb
 C:\Users\mbask\OneDrive\Masaüstü\Microservis\Microservices\OrderAPI\obj\Debug\net6.0\OrderAPI.genruntimeconfig.cache
 C:\Users\mbask\OneDrive\Masaüstü\Microservis\Microservices\OrderAPI\obj\Debug\net6.0\ref\OrderAPI.dll
+C:\Users\mbask\OneDrive\Masaüstü\Microservis\Microservices\OrderAPI\bin\Debug\net6.0\MassTransit.dll
+C:\Users\mbask\OneDrive\Masaüstü\Microservis\Microservices\OrderAPI\bin\Debug\net6.0\MassTransit.Abstractions.dll
+C:\Users\mbask\OneDrive\Masaüstü\Microservis\Microservices\OrderAPI\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+C:\Users\mbask\OneDrive\Masaüstü\Microservis\Microservices\OrderAPI\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\mbask\OneDrive\Masaüstü\Microservis\Microservices\OrderAPI\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\mbask\OneDrive\Masaüstü\Microservis\Microservices\OrderAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\mbask\OneDrive\Masaüstü\Microservis\Microservices\OrderAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mbask\OneDrive\Masaüstü\Microservis\Microservices\OrderAPI\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\mbask\OneDrive\Masaüstü\Microservis\Microservices\OrderAPI\bin\Debug\net6.0\Shared.dll
+C:\Users\mbask\OneDrive\Masaüstü\Microservis\Microservices\OrderAPI\bin\Debug\net6.0\Shared.pdb

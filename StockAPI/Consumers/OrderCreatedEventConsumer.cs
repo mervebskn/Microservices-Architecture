@@ -37,7 +37,7 @@ namespace StockAPI.Consumers
                 //order failed process...
             }
 
-            return Task.CompletedTask;
+            //return Task.CompletedTask;
         }
     }
 }
